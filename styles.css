@@ -7,8 +7,10 @@ body {
     margin: 0;
     display: block;
 }
-.container {width: 80%; margin: auto; overflow: hidden;}
-.funParagraph#testP{color: green;}
+.container {width: 80%; margin: auto; overflow: hidden;
+}
+.funParagraph #testP {color: green;
+}
 #mainHeading {background: lightblue; color: red; max-width: fit-content; padding: 2%;}
 #mainNav{background: lightgray; color: black;}
 #mainNav ul{
