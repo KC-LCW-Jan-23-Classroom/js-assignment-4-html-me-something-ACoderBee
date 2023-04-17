@@ -9,11 +9,9 @@ body {
 }
 .container {width: 80%; margin: auto; overflow: hidden;
 }
-.funParagraph {color: green;
+.funParagraph, #testP {color: green;
 }
-#testP {color: green;
-}
-#mainHeading {background: lightblue; color: red; max-width: fit-content; padding: 2%;}
+ #mainHeading {background: lightblue; color: red; max-width: fit-content; padding: 2%;}
 #aboutHeading {background: lightblue; color: red; max-width: fit-content; padding: 2%;}
 #mainNav{background: lightgray; color: black;}
 #mainNav ul{
