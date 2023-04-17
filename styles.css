@@ -11,6 +11,8 @@ body {
 }
 .funParagraph, #testP {color: green;
 }
+#god { color:rgb(107, 3, 3);  padding: 2%; font-size: xx-large; font-weight: bolder;}
+
 #mainHeading {background: lightblue; color: red; max-width: fit-content; padding: 2%;}
 #aboutHeading {background: lightblue; color: red; max-width: fit-content; padding: 2%;}
 #mainNav{background: lightgray; color: black;}
