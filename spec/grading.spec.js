@@ -39,12 +39,12 @@ describe ("Grading Tests: ", function () {
          let articleElements = container.body.getElementsByTagName("Article").length;
          let imageElements = container.body.getElementsByTagName("img").length;
 
-         expect(pElements).toBeGreaterThanOrEqual(1);
-         expect(headerElements).toBeGreaterThanOrEqual(1);
-         expect(footerElements).toBeGreaterThanOrEqual(1);
-         expect(mainElements).toBeGreaterThanOrEqual(1);
-         expect(articleElements).toBeGreaterThanOrEqual(1);
-         expect(imageElements).toBeGreaterThanOrEqual(1);
+          expect(pElements).toBeGreaterThanOrEqual(1);
+          expect(headerElements).toBeGreaterThanOrEqual(1);
+          expect(footerElements).toBeGreaterThanOrEqual(1);
+          expect(mainElements).toBeGreaterThanOrEqual(1);
+          expect(articleElements).toBeGreaterThanOrEqual(1);
+          expect(imageElements).toBeGreaterThanOrEqual(1);
    })
 
    it("HTML contains correct number of sections", function() {
